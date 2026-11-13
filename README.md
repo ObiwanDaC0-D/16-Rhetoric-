@@ -8,6 +8,7 @@ A standalone, mobile-friendly GitHub Pages learning application for studying rhe
 - **Explore:** dashboard, study progress, and domain navigation.
 - **Theory Library:** searchable frameworks, conceptual claims, applications, cautions, and reading leads.
 - **Concept Map:** domain-organized exploration.
+- **Socratic Dialogue Lab (V4):** seven questioning moves, five starter inquiries, guided dialogue turns, provisional synthesis, unresolved questions, draft persistence, saved transcripts, and JSON export. Structured prompts rather than an AI conversation.
 - **Debate & Argumentation Lab (V3):** five-stage reasoning workflow (construct, challenge, steelman, respond, synthesize), evidence and assumption prompts, a completion-only reasoning checklist, local draft persistence, saved debates and JSON export. Focuses on fair reasoning rather than rhetorical victory.
 - **Rhetorical Simulator (V2):** vary audience, issue frame, primary persuasive appeal, evidence quality, claims and calls to action; inspect a qualitative message architecture and ethical audit; save/revisit/export simulations and transfer a draft into Persuasion Studio.
 - **Argument Builder:** Toulmin-style claim, grounds, warrant, backing, qualifier, rebuttal, and response.
@@ -33,4 +34,4 @@ The library provides foundational reading leads, not an independently verified s
 
 ## Status
 
-V3 committed to main. JavaScript syntax checked; live browser end-to-end testing and Pages deployment verification remain outstanding.
+V4 committed to main. JavaScript syntax checked; live browser end-to-end testing and Pages deployment verification remain outstanding.
