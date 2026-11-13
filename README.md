@@ -8,6 +8,7 @@ A standalone, mobile-friendly GitHub Pages learning application for studying rhe
 - **Explore:** dashboard, study progress, and domain navigation.
 - **Theory Library:** searchable frameworks, conceptual claims, applications, cautions, and reading leads.
 - **Concept Map:** domain-organized exploration.
+- **Rhetorical Simulator (V2):** vary audience, issue frame, primary persuasive appeal, evidence quality, claims and calls to action; inspect a qualitative message architecture and ethical audit; save/revisit/export simulations and transfer a draft into Persuasion Studio.
 - **Argument Builder:** Toulmin-style claim, grounds, warrant, backing, qualifier, rebuttal, and response.
 - **Rhetorical Analyzer:** structured analysis of speaker, audience, exigence, ethos, pathos, logos, kairos, framing, power, and ethics.
 - **Persuasion Studio:** evidence-aware, audience-centered message planning and ethical audit.
@@ -31,4 +32,4 @@ The library provides foundational reading leads, not an independently verified s
 
 ## Status
 
-V1 committed to main. JavaScript syntax checked; live browser end-to-end testing and Pages deployment verification remain outstanding.
+V2 committed to main. JavaScript syntax checked; live browser end-to-end testing and Pages deployment verification remain outstanding.
